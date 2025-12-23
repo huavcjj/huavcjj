@@ -11,9 +11,9 @@
   <a href="https://github.com/huavcjj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huavcjj&layout=compact&theme=github_dark&hide_border=false" width="35%" alt="Top Languages" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/huavcjj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=huavcjj&row=1&column=6&theme=discord" width="84%" alt="@Kenty's Trophy Stats" /></a>
-</p>
+</p> -->
 
 
 
