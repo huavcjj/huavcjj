@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/huavcjj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=huavcjj&theme=onestar&no-frame=true&column=6&row=1" width="84%" alt="@Goblin's Trophy Stats" /></a>
+  <a href="https://github.com/huavcjj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=huavcjj&row=1&column=6" width="84%" alt="@Kenty's Trophy Stats" /></a>
 </p>
+
 
 
 <a href="https://twitter.com/huavcjj">
